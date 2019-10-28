@@ -1,6 +1,9 @@
-FaceLocker V0.1
+##FaceLocker V0.1
+
 Facelocker is a software that scrambles text files to the point of unreadability. Instead of using a password, it uses the client's face to lock and unlock files.
-To install:
+
+###To install:
+
 You're going to need OpenCV and Numpy to run this. To get these modules, go to http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv and http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy to download the packages that correspond to your system and python version.
 
 After that, use the command line to go to the directory you downloaded using cd [path].
